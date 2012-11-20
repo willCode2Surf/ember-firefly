@@ -1,0 +1,13 @@
+{
+  "name": "ember-socketio-redis",
+  "version": "0.0.1",
+   "author": "dwb - @willCode2Surf",
+  "scripts": {
+    "start": "ember backend processes for notifications  to support state management, resource access, etc"
+  },
+  "dependencies": {
+    "redis": "*",
+    "socket.io": "*",
+    "nodiak": "*"
+  }
+}
